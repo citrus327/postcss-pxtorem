@@ -9,7 +9,7 @@ A plugin for [PostCSS](https://github.com/ai/postcss) that generates rem units f
 ## Install
 
 ```shell
-$ npm install postcss postcss-pxtorem --save-dev
+$ npm install postcss @citrus327/postcss-pxtorem --save-dev
 ```
 
 ## Usage
